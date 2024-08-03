@@ -1,3 +1,4 @@
+![HEADER](./github-banner.gif)
 <h1 align="center">Hi 👋, I'm Merwin J</h1>
 <h3 align="center">As an aspiring Full Stack Developer with a keen focus on Python, and a passionate Security Architect enthusiast, I am dedicated to crafting seamless and secure digital solutions.</h3>
 
