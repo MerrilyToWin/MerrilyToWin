@@ -76,8 +76,8 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merrily5&show_icons=true&locale=en&layout=compact" alt="merrily5" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MerrilyToWin&show_icons=true&locale=en&layout=compact" alt="merrily5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merrily5&show_icons=true&locale=en" alt="merrily5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MerrilyToWin&show_icons=true&locale=en" alt="MerrilyToWin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merrily5&" alt="merrily5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MerrilyToWin&" alt="MerrilyToWin" /></p>
