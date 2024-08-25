@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular, SC-900, AZ-900, SC-100, Google Security**
 
-- 👨‍💻 Visit my portfolio at: [Click Here!!](https://merrilytowin.github.io/merrily.github.io/)
+- 👨‍💻 Visit my portfolio at: [MERRILY!!](https://merrilytowin.github.io/merrily.github.io/)
 
 - 📫 How to reach me **merwinofficial24@gmail.com**
 
