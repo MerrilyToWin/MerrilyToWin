@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Qiskit, Cirq, IBM Quantum Learning**
 
-- 👨‍💻 Visit my portfolio at: [MERRILY!!](https://merrilytowin.github.io/merrily.github.io/)
+- 👨‍💻 Visit my portfolio at: [MERRILY!!](https://merrilytowin.github.io/-/)
 
 - 📫 How to reach me **merwinofficial24@gmail.com**
 
