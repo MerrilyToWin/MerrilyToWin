@@ -1,8 +1,8 @@
 ![HEADER](./github-banner.gif)
 <h1 align="center">Hi There, I'm Merwin J</h1>
-<h3 align="center">As an aspiring Full Stack Developer with a keen focus on Python, and a passionate Security Architect enthusiast, I am dedicated to crafting seamless and secure digital solutions.</h3>
+<h3 align="center">As an aspiring Full Stack Developer with a keen focus on Python, and a passionate Network Operations Enthuiast, I am dedicated to crafting seamless and secure digital solutions.</h3>
 
-- 🌱 I’m currently learning **Kotlin, Qiskit, Cirq, IBM Quantum Learning**
+- 🌱 I’m currently learning **Docker,Kubernetes and CI/CD Pipelining along with DSA**
 
 - 👨‍💻 Visit my portfolio at: [MERRILY!!](https://merrilytowin.github.io/-/)
 
@@ -52,11 +52,9 @@
   <br>
   <h5>High Level Programming Languages</h5>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>   
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>  
   <br>
+  
   <h5>Back-End</h5>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
